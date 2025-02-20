@@ -106,7 +106,7 @@ def main():
     sistema = SistemaFichajeSencillo()
     
     # Register a test user
-    sistema.registrar_usuario("juan", "1234")
+    sistema.registrar_usuario("julio", "1234")
     
     # Start the system
     sistema.fichar_trabajo()
